@@ -1,1 +1,0 @@
-G:\IonicWorkspace\Blank Chart\platforms\windows\CordovaApp.Phone.jsproj;neutral
