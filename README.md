@@ -1,1 +1,5 @@
-"# grafik" 
+`npm install`
+
+`bower install`
+
+`ionic serve` 
